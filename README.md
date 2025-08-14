@@ -8,7 +8,7 @@ I am a Computer Science student at Northern University Bangladesh, aspiring to b
 Skills: HTML / CSS / JS / C++ / C
 
 - 🔭 I’m currently working on Problem Solving 
-- 🌱 I’m currently learning Programing Hero 12th batch 
+- 🌱 I’m currently learning Programming Hero 12th batch 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: <br>Facebook: https://www.facebook.com/share/19MruWK4Y3/ <br>Linkedin: https://www.linkedin.com/in/ashadulislam6156rs/ <br> Youtube: www.youtube.com/@codeandspeech 

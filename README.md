@@ -3,9 +3,9 @@
 #### Web Developer
 
 Assalamu Alaikum
-I am a Computer Science student at Northern University Bangladesh, aspiring to become a professional Web Developer. Passionate about creating responsive and user-friendly websites, I am building my skills in HTML, CSS, JavaScript, and modern web technologies to develop impactful digital solutions.
+I am a Computer Science student at Northern University Bangladesh, aspiring to become a professional Web Developer. Passionate about creating responsive and user-friendly websites, I am building my skills in HTML, CSS,Tailwind CSS,Daisy Ui, JavaScript,Git & GitHub and modern web technologies to develop impactful digital solutions.
 
-Skills: HTML / CSS / JS / C++ / C
+Skills: HTML /CSS /Tailwind CSS /Daisy Ui/ JS /Git & GitHub / C++ / C
 
 - 🔭 I’m currently working on Problem Solving 
 - 🌱 I’m currently learning Programming Hero 12th batch 

@@ -1,11 +1,11 @@
-![Web Developer](https://media.licdn.com/dms/image/v2/D4E16AQFNxG5hg5QnkA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730233272918?e=1758153600&v=beta&t=-nUrAew33apyf1v1LGLhctssAjI0MC7j0MDcyDp9-sQ)
+![Web Developer](https://www.linkedin.com/in/ashadulislam6156rs/overlay/background-image/)
 ### Hi there 👋, I'm Ashadul islam
 #### Web Developer
 
 Assalamu Alaikum
-I am a Computer Science student at Northern University Bangladesh, aspiring to become a professional Web Developer. Passionate about creating responsive and user-friendly websites, I am building my skills in HTML, CSS,Tailwind CSS,Daisy Ui, JavaScript,Git & GitHub and modern web technologies to develop impactful digital solutions.
+I am a Computer Science student at Northern University Bangladesh, aspiring to become a professional Web Developer. Passionate about creating responsive and user-friendly websites, I am building my skills in HTML, CSS,Tailwind CSS,Daisy Ui, JavaScript,Git & GitHub,React and modern web technologies to develop impactful digital solutions.
 
-Skills: HTML / CSS / Tailwind CSS / Daisy Ui / JS / Git & GitHub / C++ / C
+Skills: HTML / CSS / Tailwind CSS / Daisy Ui / JS / Git & GitHub / C++ / C / React
 
 - 🔭 I’m currently working on Problem Solving 
 - 🌱 I’m currently learning Programming Hero 12th batch 

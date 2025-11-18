@@ -1,4 +1,4 @@
-![Web Developer](https://media.licdn.com/dms/image/v2/D4E16AQFNxG5hg5QnkA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730233272918?e=1764806400&v=beta&t=FpnYEszL_utkh42by1_DxpkuWBmp8OBEmOyEvvZX5f0)
+<img src="https://i.ibb.co/5Wr0vdsY/ASHADUL-ISLAM.png" alt="Hello world">
 ### Hi there 👋, I'm Ashadul islam
 ---
 #### Designation

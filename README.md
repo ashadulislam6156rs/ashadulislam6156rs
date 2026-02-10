@@ -4,13 +4,13 @@
 ---
 #### Designation
 Aspiring MERN Stack Developer | Programmer from Bangladesh
-Focused on JavaScript, TypeScript, React,Next.js, Node.js, and modern full-stack development.
+Focused on JavaScript, TypeScript, React, Next.js, Node.js, and modern full-stack development.
 #### About Me
 I’m Ashadul Islam, a passionate developer who enjoys turning ideas into functional and visually clear web applications. I’m deeply interested in the MERN stack and love learning new technologies that improve my workflow and problem-solving approach.
 My goal is to build real-world projects, grow as a full-stack developer, and contribute to impactful solutions in the web development ecosystem.
 
-- 🔭 I’m currently working on SmartGarden and Job Candidate Management System
-- 🌱 I’m currently learning Programming Hero 12th batch, SCIC and EJP 
+- 🔭 I’m currently working Group Projects on School Management System and Travel Planning & Review Platform
+- 🌱 I have successfully completed the Programming Hero MERN Stack course (12th batch) 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about Web Development 
 - 📫 How to reach me **ashadulislam6156rs@gmail.com**

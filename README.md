@@ -10,7 +10,8 @@ I’m Ashadul Islam, a passionate developer who enjoys turning ideas into functi
 My goal is to build real-world projects, grow as a full-stack developer, and contribute to impactful solutions in the web development ecosystem.
 
 - 🔭 I’m currently working Group Projects on School Management System and Travel Planning & Review Platform
-- 🌱 I have successfully completed the Programming Hero MERN Stack course (12th batch) 
+- 🌱 I have successfully completed the Programming Hero MERN Stack course (12th batch)
+- 🌱 I am currently studying the Programming Hero Next Level course.
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about Web Development 
 - 📫 How to reach me **ashadulislam6156rs@gmail.com**
